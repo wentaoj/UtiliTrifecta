@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/utilitrifecta/static/css/main.256758bf.css",
-    "main.js": "/utilitrifecta/static/js/main.70da8e76.js",
-    "static/media/forex.gif": "/utilitrifecta/static/media/forex.551efe0c5e68a3757305.gif",
-    "static/media/chronometer.gif": "/utilitrifecta/static/media/chronometer.d8470fcd91935264c588.gif",
-    "static/media/determinant.gif": "/utilitrifecta/static/media/determinant.38e3f8552144ba5b6adb.gif",
-    "index.html": "/utilitrifecta/index.html",
-    "main.256758bf.css.map": "/utilitrifecta/static/css/main.256758bf.css.map",
-    "main.70da8e76.js.map": "/utilitrifecta/static/js/main.70da8e76.js.map"
+    "main.css": "/UtiliTrifecta/static/css/main.256758bf.css",
+    "main.js": "/UtiliTrifecta/static/js/main.8d3a5b1b.js",
+    "static/media/forex.gif": "/UtiliTrifecta/static/media/forex.551efe0c5e68a3757305.gif",
+    "static/media/chronometer.gif": "/UtiliTrifecta/static/media/chronometer.d8470fcd91935264c588.gif",
+    "static/media/determinant.gif": "/UtiliTrifecta/static/media/determinant.38e3f8552144ba5b6adb.gif",
+    "index.html": "/UtiliTrifecta/index.html",
+    "main.256758bf.css.map": "/UtiliTrifecta/static/css/main.256758bf.css.map",
+    "main.8d3a5b1b.js.map": "/UtiliTrifecta/static/js/main.8d3a5b1b.js.map"
   },
   "entrypoints": [
     "static/css/main.256758bf.css",
-    "static/js/main.70da8e76.js"
+    "static/js/main.8d3a5b1b.js"
   ]
 }
