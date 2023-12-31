@@ -11,19 +11,19 @@ function Home() {
             <p className="home-intro">Your go-to suite of utilities for everyday efficiency.</p>
             <div className="utility-container">
                 <figure className="utility-item">
-                    <a href="/utilitrifecta/forex">
+                    <a href="/UtiliTrifecta/forex">
                         <img src={forexImg} alt="Forex Suites"/>
                         <figcaption>Real-Time Forex Rates</figcaption>
                     </a>
                 </figure>
                 <figure className="utility-item">
-                    <a href="/utilitrifecta/determinant">
+                    <a href="/UtiliTrifecta/determinant">
                         <img src={determinantImg} alt="Determinant Calculator"/>
                         <figcaption>Matrix Determinant Calculator</figcaption>
                     </a>
                 </figure>
                 <figure className="utility-item">
-                    <a href="/utilitrifecta/chronometer">
+                    <a href="/UtiliTrifecta/chronometer">
                         <img src={chronometerImg} alt="chronometer"/>
                         <figcaption>Simple ChronoMeter</figcaption>
                     </a>

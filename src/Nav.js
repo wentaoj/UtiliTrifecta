@@ -7,16 +7,16 @@ function Nav() {
     <nav className="light">
       <ul>
         <li id="home">
-          <Link to="/utilitrifecta">UtiliTrifecta: Dashboard</Link>
+          <Link to="/UtiliTrifecta">UtiliTrifecta: Dashboard</Link>
         </li>
         <li>
-          <Link to="/utilitrifecta/forex">Forex Suite</Link>
+          <Link to="/UtiliTrifecta/forex">Forex Suite</Link>
         </li>
         <li>
-          <Link to="/utilitrifecta/determinant">Determinant</Link>
+          <Link to="/UtiliTrifecta/determinant">Determinant</Link>
         </li>
         <li>
-          <Link to="/utilitrifecta/chronometer">ChronoMeter</Link>
+          <Link to="/UtiliTrifecta/chronometer">ChronoMeter</Link>
         </li>
       </ul>
     </nav>

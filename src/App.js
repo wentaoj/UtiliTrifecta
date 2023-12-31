@@ -12,11 +12,11 @@ function App() {
 		<div className="container">
 			<BrowserRouter>
 				<Routes>
-					<Route path="/utilitrifecta" element={<Layout />}>
+					<Route path="/UtiliTrifecta" element={<Layout />}>
 						<Route index element={<Home />}/>
-						<Route path="/utilitrifecta/forex" element={<Currency />} />
-						<Route path="/utilitrifecta/determinant" element={<Determinant />} />
-						<Route path="/utilitrifecta/chronometer" element={<ChronoMeter />} />
+						<Route path="/UtiliTrifecta/forex" element={<Currency />} />
+						<Route path="/UtiliTrifecta/determinant" element={<Determinant />} />
+						<Route path="/UtiliTrifecta/chronometer" element={<ChronoMeter />} />
 					</Route>
 				</Routes>
 			</BrowserRouter>

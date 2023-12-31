@@ -2,7 +2,7 @@
   "name": "UtiliTrifecta",
   "version": "1.1.0",
   "private": true,
-  "homepage": "https://wentaoj.github.io/utilitrifecta",
+  "homepage": "https://wentaoj.github.io/UtiliTrifecta",
   "dependencies": {
     "@testing-library/jest-dom": "^6.1.6",
     "@testing-library/react": "^14.1.2",
