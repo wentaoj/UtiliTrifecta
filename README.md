@@ -1,4 +1,4 @@
-# [UtiliTrifecta]((https://wentaoj.github.io/UtiliTrifecta/)): A Trio of Practical React.js Utilities
+# UtiliTrifecta: A Trio of Practical React.js Utilities
 ![React.js Logo](./public/logo192.png)
 
 ## Project Information
@@ -9,9 +9,9 @@ _Last Edit: Dec.31, 2023_
 ## Project Overview
 **"UtiliTrifecta"** is a dynamic React.js Web Application designed and deployed on-site to boost daily productivity with easy-to-use tools. The application encompasses the following key features:
 
-- **Forex Suites**: Real-time currency exchange rates from USD to various global currencies. [View Forex Suite](https://wentaoj.github.io/UtiliTrifecta/forex) / [View Source Code](./src/components/forex/forex.js)
-- **Matrix Determinant Calculator**: Calculate the determinant of a matrix efficiently. [View Determinant Calculator](https://wentaoj.github.io/UtiliTrifecta/determinant) / [View Source Code](./src/components/determinant/determinant.js)
-- **ChronoMeter**: A versatile stopwatch for timing and recording intervals. [View ChronoMeter](https://wentaoj.github.io/UtiliTrifecta/chronometer) / [View Source Code](./src/components/chronometer/chronometer.js)
+- **Forex Suites**: Real-time currency exchange rates from USD to various global currencies. [View Forex Suite](https://wentaoj.github.io/UtiliTrifecta/#/forex) / [View Source Code](./src/components/forex/forex.js)
+- **Matrix Determinant Calculator**: Calculate the determinant of a matrix efficiently. [View Determinant Calculator](https://wentaoj.github.io/UtiliTrifecta/#/determinant) / [View Source Code](./src/components/determinant/determinant.js)
+- **ChronoMeter**: A versatile stopwatch for timing and recording intervals. [View ChronoMeter](https://wentaoj.github.io/UtiliTrifecta/#/chronometer) / [View Source Code](./src/components/chronometer/chronometer.js)
 
 ## Screenshots and Demo
 #### Deployment Website: [**`UtiliTrifecta`**](https://wentaoj.github.io/UtiliTrifecta/)

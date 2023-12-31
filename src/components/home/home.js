@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import forexImg from '../../images/forex.gif';
 import determinantImg from '../../images/determinant.gif';
 import chronometerImg from '../../images/chronometer.gif';
@@ -11,22 +12,22 @@ function Home() {
             <p className="home-intro">Your go-to suite of utilities for everyday efficiency.</p>
             <div className="utility-container">
                 <figure className="utility-item">
-                    <a href="/UtiliTrifecta/forex">
+                    <Link to="/forex">
                         <img src={forexImg} alt="Forex Suites"/>
                         <figcaption>Real-Time Forex Rates</figcaption>
-                    </a>
+                    </Link>
                 </figure>
                 <figure className="utility-item">
-                    <a href="/UtiliTrifecta/determinant">
+                    <Link to="/determinant">
                         <img src={determinantImg} alt="Determinant Calculator"/>
                         <figcaption>Matrix Determinant Calculator</figcaption>
-                    </a>
+                    </Link>
                 </figure>
                 <figure className="utility-item">
-                    <a href="/UtiliTrifecta/chronometer">
-                        <img src={chronometerImg} alt="chronometer"/>
+                    <Link to="/chronometer">
+                        <img src={chronometerImg} alt="Chronometer"/>
                         <figcaption>Simple ChronoMeter</figcaption>
-                    </a>
+                    </Link>
                 </figure>
             </div>
         </div>
