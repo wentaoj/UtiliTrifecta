@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/UtiliTrifecta/static/css/main.256758bf.css",
-    "main.js": "/UtiliTrifecta/static/js/main.8d3a5b1b.js",
+    "main.js": "/UtiliTrifecta/static/js/main.7767b6a5.js",
     "static/media/forex.gif": "/UtiliTrifecta/static/media/forex.551efe0c5e68a3757305.gif",
     "static/media/chronometer.gif": "/UtiliTrifecta/static/media/chronometer.d8470fcd91935264c588.gif",
     "static/media/determinant.gif": "/UtiliTrifecta/static/media/determinant.38e3f8552144ba5b6adb.gif",
     "index.html": "/UtiliTrifecta/index.html",
     "main.256758bf.css.map": "/UtiliTrifecta/static/css/main.256758bf.css.map",
-    "main.8d3a5b1b.js.map": "/UtiliTrifecta/static/js/main.8d3a5b1b.js.map"
+    "main.7767b6a5.js.map": "/UtiliTrifecta/static/js/main.7767b6a5.js.map"
   },
   "entrypoints": [
     "static/css/main.256758bf.css",
-    "static/js/main.8d3a5b1b.js"
+    "static/js/main.7767b6a5.js"
   ]
 }
