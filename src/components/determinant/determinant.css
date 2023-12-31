@@ -1,0 +1,49 @@
+.tableheader {
+    background-color: rgb(76, 206, 162);
+}
+
+input {
+    width: 80px;
+    height: 30px;
+}
+
+.determinant-container {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    max-width: 500px;
+}
+
+.matrix-inputs {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.matrix-row {
+    display: flex;
+    justify-content: center;
+}
+
+.matrix-row input {
+    margin: 5px;
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    background-color: steelblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightsteelblue;
+}

@@ -1,0 +1,43 @@
+.timer-container {
+    text-align: center;
+}
+
+.display-time {
+    font-size: 5em;
+}
+
+.display-formatter {
+    font-size: 1.5em;
+    margin-top: auto;
+    margin-bottom: 0.7em;
+}
+
+.timer-buttons button {
+    margin: 10px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.timer-centered {
+    text-align: center;
+}
+
+.timer-list {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.timer-list li:nth-child(odd) {
+    background-color: rgb(162, 205, 232);
+    border-radius: 12px;
+    margin: 0 230px 0 230px;
+}
+
+@media (max-width: 1000px) {
+    .timer-list li:nth-child(odd) {
+        margin: 0 15px 0 0;
+        background-color: white;
+        border-radius: 0;
+    }
+}

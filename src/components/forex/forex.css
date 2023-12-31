@@ -1,0 +1,56 @@
+.currency-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.currency-ref {
+    font-size: small;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.currency-ref a {
+    color: blue;
+    text-decoration: none;
+}
+
+.currency-ref a:visited {
+    color: violet
+}
+
+.currency-ref a:hover {
+    color: blueviolet;
+}
+
+.currency-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.currency-table {
+    width: 80%;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    background-color: white;
+    border-collapse: separate;
+    border-spacing: 1px;
+}
+
+.currency-table td {
+    text-align: right;
+    padding: 8px;
+    border: 2px solid white;
+}
+
+.currency-table td:nth-child(n-2) {
+    text-align: center;
+}
+
+.currency-table th {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(204, 246, 204);
+}
